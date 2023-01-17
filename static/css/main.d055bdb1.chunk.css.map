@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss","webpack://src/index.scss"],"names":[],"mappings":"AAAA,KACE,eAAgB,CCDlB,MACE,4EACA,CAAA,gBAAiB","file":"main.d055bdb1.chunk.css","sourcesContent":[".App {\n  padding-top: 5vh;\n}\n",".body {\n  background: url(\"./assets/bg.jpeg\")no-repeat 50% 100%/cover;\n  min-height: 100vh;\n}\n"]}
